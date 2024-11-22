@@ -46,7 +46,7 @@ For Android:
 npx react-native run-android
 ```
 
-For Android(alternative ):
+For Android(alternative to run Metro bundler first ):
 ```bash
 npm start
 ```
