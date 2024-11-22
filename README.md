@@ -68,7 +68,6 @@ You can also download expo go on your device and scan the qr code
 3. **View Conversion**
    - See real-time conversion rate
    - View the converted amount
-   - Check 7-day historical rates below the converter
 
 4. **Quick Swap**
    - Use the swap button (↕) to quickly switch between currencies
